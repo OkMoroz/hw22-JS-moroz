@@ -5,5 +5,3 @@ document.body.appendChild(getButtonClick);
 export const getClick = () => {
   alert("Have a nice day!");
 };
-
-getButtonClick.addEventListener("click", getClick);
